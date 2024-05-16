@@ -3505,8 +3505,8 @@
     },
     "shared-lib/1.0.0": {
       "type": "project",
-      "path": "../shared-lib/shared-lib.csproj",
-      "msbuildProject": "../shared-lib/shared-lib.csproj"
+      "path": "../Facility-Management-Shared-base/shared-lib.csproj",
+      "msbuildProject": "../Facility-Management-Shared-base/shared-lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3528,11 +3528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\auth-svc\\auth-svc.csproj",
+      "projectUniqueName": "C:\\Project\\Facility-Management\\facility-management-auth-svc\\auth-svc.csproj",
       "projectName": "auth-svc",
-      "projectPath": "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\auth-svc\\auth-svc.csproj",
+      "projectPath": "C:\\Project\\Facility-Management\\facility-management-auth-svc\\auth-svc.csproj",
       "packagesPath": "C:\\Users\\AnandhuPrasad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\auth-svc\\obj\\",
+      "outputPath": "C:\\Project\\Facility-Management\\facility-management-auth-svc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AnandhuPrasad\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3547,8 +3547,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\shared-lib\\shared-lib.csproj": {
-              "projectPath": "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\shared-lib\\shared-lib.csproj"
+            "C:\\Project\\Facility-Management\\Facility-Management-Shared-base\\shared-lib.csproj": {
+              "projectPath": "C:\\Project\\Facility-Management\\Facility-Management-Shared-base\\shared-lib.csproj"
             }
           }
         }

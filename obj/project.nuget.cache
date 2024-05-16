@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7kYlmDPGwqsmXcMpHPaLdslJPWb6/V02E01Lwax3k7lYX+JGYbpG2uM28w2pRFeYVWrnxTtgaW0yshT//Jf1w==",
+  "dgSpecHash": "bhyVwZEyy/54qisMS5FfcL4FBhDFtashS9S+fYqH9iBSjxX5kZHSVkMBcLDIxc0FFZSqfH1netEulrjVynKFdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AnandhuPrasad\\Documents\\Facility-Management\\auth-svc\\auth-svc.csproj",
+  "projectFilePath": "C:\\Project\\Facility-Management\\facility-management-auth-svc\\auth-svc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AnandhuPrasad\\.nuget\\packages\\awssdk.core\\3.7.301.4\\awssdk.core.3.7.301.4.nupkg.sha512",
     "C:\\Users\\AnandhuPrasad\\.nuget\\packages\\awssdk.s3\\3.7.305.9\\awssdk.s3.3.7.305.9.nupkg.sha512",
